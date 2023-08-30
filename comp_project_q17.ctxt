@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=comp_project_q17
+comment1.params=
+comment1.target=void\ drawline1()
+comment2.params=u_list\ p_list\ username\ password
+comment2.target=boolean\ p(java.lang.String[],\ java.lang.String[],\ java.lang.String,\ java.lang.String)
+comment3.params=q_bank\ r\ q
+comment3.target=void\ questions(java.lang.String[],\ int[],\ java.lang.String[])
+comment4.params=
+comment4.target=void\ main()
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=special_charcter_matrix
+comment1.params=arr\ char_1\ char_2\ char_3
+comment1.target=void\ fillingCharacters(char[][],\ char,\ char,\ char)
+comment2.params=arr
+comment2.target=void\ display(char[][])
+comment3.params=
+comment3.target=void\ main()
+numComments=4
