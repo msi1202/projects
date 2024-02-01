@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=num_Recursion
+comment1.params=x\ y
+comment1.target=long\ power(int,\ int)
+comment2.params=x
+comment2.target=int\ factorial(int)
+comment3.params=n\ f
+comment3.target=int\ sumoffactors(int,\ int)
+comment4.params=n\ m
+comment4.target=boolean\ prime(int,\ int)
+comment5.params=n
+comment5.target=int\ sumofdigits(int)
+comment6.params=x\ y
+comment6.target=int\ hcf(int,\ int)
+comment7.params=n
+comment7.target=int\ krish(int)
+comment8.params=n
+comment8.target=int\ fibo(int)
+numComments=9

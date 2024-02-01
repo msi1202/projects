@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=stringRecursion
+comment1.params=s
+comment1.target=int\ countVowel(java.lang.String)
+comment10.params=s
+comment10.target=void\ pattern4(java.lang.String)
+comment2.params=s
+comment2.target=int\ countWord(java.lang.String)
+comment3.params=s
+comment3.target=int\ countSentence(java.lang.String)
+comment4.params=s\ strt\ end
+comment4.target=boolean\ palin(java.lang.String,\ int,\ int)
+comment5.params=s
+comment5.target=void\ revwrd(java.lang.String)
+comment6.params=s
+comment6.target=java.lang.String\ revwrd_1(java.lang.String)
+comment7.params=s
+comment7.target=void\ pattern1(java.lang.String)
+comment8.params=s
+comment8.target=void\ pattern2(java.lang.String)
+comment9.params=s
+comment9.target=void\ pattern3(java.lang.String)
+numComments=11
